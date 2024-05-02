@@ -1,4 +1,4 @@
-# 📟📊 SpaceInvaders
+# 👽👾 SpaceInvaders
 ## 🤔 What is this?
 
 A video game that is build based upon the Space Invader game in 1978
